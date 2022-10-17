@@ -1,6 +1,9 @@
 .label {
   display: flex;
   flex-direction: column;
+  border: solid black 1px;
+  background-color: tomato;
+  width: 320px;
 }
 
 .input {
